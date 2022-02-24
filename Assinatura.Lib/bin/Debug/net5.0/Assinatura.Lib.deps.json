@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Assinatura.Lib/1.0.0": {
+        "runtime": {
+          "Assinatura.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assinatura.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

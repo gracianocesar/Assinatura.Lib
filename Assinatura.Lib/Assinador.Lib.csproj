@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="iTextSharp" Version="5.5.13.2" />
+    <PackageReference Include="System.Security.Cryptography.Pkcs" Version="6.0.0" />
+    <PackageReference Include="TikaOnDotNet" Version="1.17.1" />
+    <PackageReference Include="TikaOnDotnet.TextExtractor" Version="1.17.1" />
+  </ItemGroup>
+
+</Project>

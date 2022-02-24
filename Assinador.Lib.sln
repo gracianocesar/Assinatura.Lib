@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assinador.Lib", "Assinatura.Lib\Assinador.Lib.csproj", "{2732A5A0-D87A-4D29-8F3D-06448F7BF81F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assinador.Lib.Test", "Assinatura.Lib.Test\Assinador.Lib.Test.csproj", "{EE7F011C-735B-4AF3-B8CE-571ED16C4F37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2732A5A0-D87A-4D29-8F3D-06448F7BF81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2732A5A0-D87A-4D29-8F3D-06448F7BF81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2732A5A0-D87A-4D29-8F3D-06448F7BF81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2732A5A0-D87A-4D29-8F3D-06448F7BF81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7F011C-735B-4AF3-B8CE-571ED16C4F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7F011C-735B-4AF3-B8CE-571ED16C4F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7F011C-735B-4AF3-B8CE-571ED16C4F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7F011C-735B-4AF3-B8CE-571ED16C4F37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFE0F659-1A84-498D-A02D-25578F24D795}
+	EndGlobalSection
+EndGlobal

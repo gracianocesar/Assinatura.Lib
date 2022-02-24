@@ -1,0 +1,12 @@
+D:\Projetos\Assinatura.Lib\Assinatura.Lib\bin\Debug\net5.0\Assinatura.Lib.deps.json
+D:\Projetos\Assinatura.Lib\Assinatura.Lib\bin\Debug\net5.0\Assinatura.Lib.dll
+D:\Projetos\Assinatura.Lib\Assinatura.Lib\bin\Debug\net5.0\Assinatura.Lib.pdb
+D:\Projetos\Assinatura.Lib\Assinatura.Lib\obj\Debug\net5.0\Assinatura.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Assinatura.Lib\Assinatura.Lib\obj\Debug\net5.0\Assinatura.Lib.AssemblyInfoInputs.cache
+D:\Projetos\Assinatura.Lib\Assinatura.Lib\obj\Debug\net5.0\Assinatura.Lib.AssemblyInfo.cs
+D:\Projetos\Assinatura.Lib\Assinatura.Lib\obj\Debug\net5.0\Assinatura.Lib.csproj.CoreCompileInputs.cache
+D:\Projetos\Assinatura.Lib\Assinatura.Lib\obj\Debug\net5.0\Assinatura.Lib.dll
+D:\Projetos\Assinatura.Lib\Assinatura.Lib\obj\Debug\net5.0\ref\Assinatura.Lib.dll
+D:\Projetos\Assinatura.Lib\Assinatura.Lib\obj\Debug\net5.0\Assinatura.Lib.pdb
+D:\Projetos\Assinatura.Lib\Assinatura.Lib\obj\Debug\net5.0\Assinatura.Lib.csproj.AssemblyReference.cache
+D:\Projetos\Assinatura.Lib\Assinatura.Lib\obj\Debug\net5.0\refint\Assinatura.Lib.dll
